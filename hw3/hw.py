@@ -1,6 +1,5 @@
 import math
 import pylab
-from matplotlib import mlab
 import numpy as np
 import functools as ft
 
